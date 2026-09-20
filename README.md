@@ -45,8 +45,11 @@ Zhongsheng GO is a one-stop digital service platform for “People · Cars · Li
 | Storage | MMKV |
 | IM / CS | NetEase Yunxin + Qiyu |
 | Screen | 20+ breakpoints (sw240–sw961) |
+## Screenshots
 
-## Team
+![Home](screenshots/微信图片_20260818005132_4_264.jpg)
+![Mall](screenshots/微信图片_20260818005134_5_264.jpg)
+![Product](screenshots/微信图片_20260818005140_7_264.jpg)## Team
 
 Developed and maintained by **HansonForge**.
 
